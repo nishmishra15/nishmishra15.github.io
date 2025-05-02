@@ -1,6 +1,10 @@
 ---
 title: "Dynamic optimization of personal exposure and energy consumption while ensuring thermal comfort in a test house"
-authors: "Nishchaya Kumar Mishra, Atila Novoselac, Marina E. Vance, Sameer Patel"
+authors:
+  - Nishchaya Kumar Mishra
+  - Atila Novoselac
+  - Marina E. Vance
+  - Sameer Patel
 collection: publications
 category: manuscripts
 permalink: /publication/dynamic_optimization
