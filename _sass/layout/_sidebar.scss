@@ -89,8 +89,8 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 150px;
+    height: 80px;
   }
 
   img {
