@@ -28,6 +28,9 @@ Sensitivity analysis of energy and exposure for low (A and B) and high (C and D)
 DOPEEC (Deep Reinforcement Learning Agent for Optimizing Exposure, Energy, and Thermal Comfort)
 ---
 Manuscript under review
+---
+A framework for developing and testing a deep reinforcement learning agent.
+![DOPEEC](/images/DOPEEC.jpg)
 
 Transferability of Deep Reinforcement Learning Agents
 ---
