@@ -89,7 +89,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 150px;
+    width: 120px;
     height: 80px;
   }
 
@@ -97,7 +97,7 @@
     width: 100%;  /* Make the image fill the container's width */
     height: auto;  /* Maintain the aspect ratio */
     border-radius: 0%;  /* Rectangular image (no rounded corners) */
-    padding: 5px;
+    padding: 0;
     border: 1px solid var(--global-border-color);
 
     @include breakpoint($large) {
