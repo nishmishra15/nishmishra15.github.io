@@ -86,6 +86,7 @@
   width: 80px;
   // set width only, for non-square avatars
   height: 50px;
+  border: none;
 
   @include breakpoint($large) {
     display: block;
@@ -98,11 +99,11 @@
     height: auto;  /* Maintain the aspect ratio */
     border-radius: 0;  /* Rectangular image (no rounded corners) */
     padding: 0;
-    border: 0; /*1px solid var(--global-border-color); */
+    border: none; /*1px solid var(--global-border-color); */
 
     @include breakpoint($large) {
       padding: 0;
-      border: 0; /*1px solid var(--global-border-color); */
+      border: none; /*1px solid var(--global-border-color); */
     }
   }
 }
