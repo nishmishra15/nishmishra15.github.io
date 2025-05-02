@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil Engineering, Indian Institute of Technology Gandhinagar, India, 2026 (expected)
+* M.Tech in Environmental Engineering, MNNIT Allahabad, India, 2021
+* B.Tech in Civil Engineering, Techno India College of Technology, India, 2016
 
 Work experience
 ======
@@ -34,12 +34,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Reinforcement Learning
+* Optimization
+* Matlab
+* Python
+* Google Earth Engine
 
 Publications
 ======
