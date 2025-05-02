@@ -31,7 +31,7 @@ Deployment of a DRL agent to Control Indoor PM, Energy, and Thermal Comfort in a
 ---
 Experiments ongoing
 
-Read more about these works in [Publication] (https://nishmishra15.github.io//publications) section.
+Read more of my works in [Publication](https://nishmishra15.github.io//publications) section.
   
 
 
