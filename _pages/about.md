@@ -11,6 +11,7 @@ I am Nishchaya Kumar Mishra, a PhD scholar in the Department of Civil Engineerin
 
 Themes of my PhD work and highlights:
 ---
+
 Dynamic Optimization of Exposure and Energy While Ensuring Thermal Comfort
 ---
 1. Indoor PM mitigation and energy consumption trade-off require optimization.
