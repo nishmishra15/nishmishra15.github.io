@@ -25,8 +25,8 @@ author:
   avatar           : "profile_pic.jpg"
   name             : "Nishchaya Mishra"
   pronouns         : # example: "He/Him"  
-  bio              : "I am a PhD student at IIT Gandhinagar. My work lies at the intersection of control systems, human health, and indoor air quality.
-                     Currently, I am working on development and deployement of deep reinfrocement learning (DRL) agents for optimzing indoor environment quality."
+  bio              : "Reinforcement Learning, Optimization, Aerosols, Indoor Air Quality, 
+                      Healthy and Sustainable Buildings"
   location         : "India"
   employer         : "IIT Gandhinagar, India"
   uri              : # URL
