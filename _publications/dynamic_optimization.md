@@ -6,5 +6,5 @@ permalink: /publication/dynamic_optimization
 date: 2024-03-15
 venue: 'Building and Environment'
 paperurl: 'http://nishmishra15.github.io/files/dynamic_optimization.pdf'
-bibtexurl: 'http://nishmishra15.github.io/files/dynamic_optimization_bib.bib'
+bibtexurl: 'http://nishmishra15.github.io/files/dynamic_optimization_bib.txt'
 ---
