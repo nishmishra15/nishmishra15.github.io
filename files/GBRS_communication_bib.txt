@@ -1,0 +1,37 @@
+
+
+
+
+
+
+
+
+
+@article{doi:10.1021/envhealth.4c00161,
+author = {Mishra, Nishchaya Kumar and Patel, Sameer},
+title = {Need for a Holistic Approach to Assessing Sustainable, Green, and Healthy Buildings},
+journal = {Environment \& Health},
+volume = {3},
+number = {3},
+pages = {218-226},
+year = {2025},
+doi = {10.1021/envhealth.4c00161},
+
+URL = { 
+    
+        https://doi.org/10.1021/envhealth.4c00161
+    
+    
+
+},
+eprint = { 
+    
+        https://doi.org/10.1021/envhealth.4c00161
+    
+    
+
+}
+
+}
+
+
