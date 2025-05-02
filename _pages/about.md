@@ -21,7 +21,7 @@ Dynamic Optimization of Exposure and Energy While Ensuring Thermal Comfort
 
 DOPEEC (Deep Reinforcement Learning Agent for Optimizing Exposure, Energy, and Thermal Comfort)
 ---
-Work current under review
+Manuscript under review
 
 Transferability of Deep Reinforcement Learning Agents
 ---
