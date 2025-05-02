@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Civil Engineering, Indian Institute of Technology Gandhinagar, India, 2026 (expected)
-* M.Tech in Environmental Engineering, MNNIT Allahabad, India, 2021
+* M.Tech in Environmental Engineering (Gold Medalist), MNNIT Allahabad, India, 2021
 * B.Tech in Civil Engineering, Techno India College of Technology, India, 2016
 
 Work experience
