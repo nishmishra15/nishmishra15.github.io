@@ -19,7 +19,7 @@ Dynamic Optimization of Exposure and Energy While Ensuring Thermal Comfort
 4. Increasing indoor set temperature lowers energy penalty when it is hotter outside.
 5. Internal filtration offsets the high energy penalty associated with exfiltration.
 
-Sensitivity analysis of energy and exposure for LD and TGD with distinct W1/W2 ratios where (A) and (C) are energy-exposure sensitivity, and (B) and (D) are variations of normalized exposure reduction (NER). (+)ve change means increment, and (−)ve change means reduction.(/images/LD TGD Sensitivity.tif)
+Sensitivity analysis of energy and exposure for LD and TGD with distinct W1/W2 ratios where (A) and (C) are energy-exposure sensitivity, and (B) and (D) are variations of normalized exposure reduction (NER). (+)ve change means increment, and (−)ve change means reduction.(/images/LD_TGD_Sensitivity.tif)
 
 DOPEEC (Deep Reinforcement Learning Agent for Optimizing Exposure, Energy, and Thermal Comfort)
 ---
