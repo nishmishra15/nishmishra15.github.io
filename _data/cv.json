@@ -33,34 +33,34 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Indian Institute of Technology Gandhinagar, India",
+      "area": "PhD in Civil Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "MNNIT, Allahabad, India",
+      "area": "M.Tech in Environmental Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "endDate": "2021",
+      "gpa": 9.4/10,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Techno India College of Technology, Kolkata, India",
+      "area": "B.Tech in Civil Engineering",
       "studyType": "",
       "startDate": "",
       "endDate": "2012",
-      "gpa": null,
+      "gpa": 8.7/10,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [Deep Reinforcement Learning, Networks, Matlab, Python, ArcGIS],
   "languages": [],
   "interests": [],
   "references": [],
