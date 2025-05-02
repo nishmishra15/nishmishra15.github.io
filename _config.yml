@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nishchaya's Page"
+title                    : "Nishchaya's Homepage"
 title_separator          : "-"
 name                     : &name "Nishchaya K Mishra"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_pic.jpg"
-  name             : "Nishchaya Mishra"
+  name             : "Nishchaya K. Mishra"
   pronouns         : # example: "He/Him"  
   bio              : "Reinforcement Learning, Optimization, Aerosols, Indoor Air Quality, 
                       Healthy and Sustainable Buildings"
