@@ -95,7 +95,7 @@
   }
 
   img {
-    width: 100%;  /* Make the image fill the container's width */
+    width: auto;  /* Make the image fill the container's width */
     height: auto;  /* Maintain the aspect ratio */
     border-radius: 0;  /* Rectangular image (no rounded corners) */
     padding: 0;
