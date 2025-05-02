@@ -23,7 +23,7 @@ Sensitivity analysis of energy and exposure for LD and TGD with distinct W1/W2 r
 - (A) and (C) are energy-exposure sensitivity,
 - (B) and (D) are variations of normalized exposure reduction (NER)
 - (+)ve change means increment, and (−)ve change means reduction
-![LD_TGD_Sensitivity](/images/LD_TGD_Sensitivity.tif)
+![LD_TGD_Sensitivity](/images/LD_TGD_Sensitivity.jpg)
 
 DOPEEC (Deep Reinforcement Learning Agent for Optimizing Exposure, Energy, and Thermal Comfort)
 ---
