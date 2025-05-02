@@ -6,6 +6,6 @@ permalink: /publication/GBRS_communication
 date: 2024-12-16
 venue: 'ACS Environment & Health'
 paperurl: 'http://nishmishra15.github.io/files/GBRS_communication.pdf'
-bibtexurl: 'http://nishmishra15.github.io/files/GBRS_communication_bib.bib'
+bibtexurl: 'http://nishmishra15.github.io/files/GBRS_communication_bib.txt'
 citation: 
 ---
