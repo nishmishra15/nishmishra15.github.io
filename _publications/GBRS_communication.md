@@ -1,11 +1,9 @@
 ---
-title: "Need for a Holistic Approach to Assessing Sustainable, Green, and Healthy Buildings"
+title: title: "[Need for a Holistic Approach to Assessing Sustainable, Green, and Healthy Buildings](https://pubs.acs.org/doi/full/10.1021/envhealth.4c00161))"
 collection: publications
 category: manuscripts
 permalink: /publication/GBRS_communication
 date: 2024-12-16
 venue: 'ACS Environment & Health'
-paperurl: 'http://nishmishra15.github.io/files/GBRS_communication.pdf'
-bibtexurl: 'http://nishmishra15.github.io/files/GBRS_communication_bib.txt'
-citation: 
+authors: [Nishchaya Mishra](https://scholar.google.com/citations?user=2Htfc78AAAAJ&hl=en), [Sameer Patel](https://scholar.google.com/citations?user=hh17aNQAAAAJ&hl=en)
 ---
