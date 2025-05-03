@@ -5,5 +5,5 @@ category: manuscripts
 permalink: /publication/dynamic_optimization
 date: 2024-03-15
 venue: 'Building and Environment'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360132324001070'
+paperurl: 'http://nishmishra15.github.io/files/dynamic_optimization.pdf'
 ---
