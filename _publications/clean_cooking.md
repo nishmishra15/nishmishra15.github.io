@@ -5,5 +5,5 @@ category: manuscripts
 permalink: '/publication/clean_cooking'
 date: 2024-08-01
 venue: 'Energy for Sustainable Development'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0973082624001261'
+paperurl: 'paperurl: 'http://nishmishra15.github.io/files/clean_cooking.pdf''
 ---
