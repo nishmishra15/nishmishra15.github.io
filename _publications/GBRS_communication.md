@@ -1,5 +1,5 @@
 ---
-title: title: "[Need for a Holistic Approach to Assessing Sustainable, Green, and Healthy Buildings]"
+title: title: "Need for a Holistic Approach to Assessing Sustainable, Green, and Healthy Buildings"
 collection: publications
 category: manuscripts
 permalink: /publication/GBRS_communication
