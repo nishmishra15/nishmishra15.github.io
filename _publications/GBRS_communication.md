@@ -1,5 +1,5 @@
 ---
-title: title: "[Need for a Holistic Approach to Assessing Sustainable, Green, and Healthy Buildings](https://pubs.acs.org/doi/full/10.1021/envhealth.4c00161)"
+title: title: "[Need for a Holistic Approach to Assessing Sustainable, Green, and Healthy Buildings]"(https://pubs.acs.org/doi/full/10.1021/envhealth.4c00161)
 collection: publications
 category: manuscripts
 permalink: /publication/GBRS_communication
