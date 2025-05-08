@@ -29,6 +29,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Other Research Projects
+------
+* Sub-500nm particle removal mechanisms in indoor environments and governing factors, Fundamentals of Aerosol (CE-691), Fall Semester, 2021-22
+* Clean Cooking for Indian households: An assessment of fuel alternatives, Fall Semester, 2021-22
+* Development of low-cost air quality monitors, Fall Semester, 2021-22
+* Land use optimization to reduce erosion of soil in hilly areas of India, Engineering Optimization (ES-604), Spring Semester, 2021-22
+* Air quality assessment over Indian cities using Google earth engine and remote sensing data, Remore Sensing of Land and Water Resources (CE-605), Spring Semester, 2021-22
+* Appliance level energy consumption profile extraction using energy disaggregation for energy management, Fall Semester, 2022-23
+* Spatio-temporal variations of building morphology in Indian cities using remote sensing and machine learning, Fall Semester, 2024-25
+  
 Workshops
 ======
 * 2025: Fundamentals of Air Quality Modelling and its Role in Air Quality Management, CSTEP
