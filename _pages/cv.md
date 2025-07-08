@@ -41,6 +41,7 @@ Other Research Projects
   
 Workshops
 ======
+* 2025: Healthy Buildings 2025 Autumn School, Hyderabad, India
 * 2025: Fundamentals of Air Quality Modelling and its Role in Air Quality Management, CSTEP
 * 2024: Capacity Building of National Experts in the GHG Inventory Preparation Under the Enhanced Transparency Framework of the Paris Agreement, IIT Gandhinagar and IIM Ahmedabad supported by CBIT-GSP in collaboration with US EPA   
     
