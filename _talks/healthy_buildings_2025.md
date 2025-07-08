@@ -3,8 +3,8 @@ title: "A Deep reinforcement learning agent for Optimizing Personal Exposure, En
 collection: talks
 type: "Healthy Buildings 2025"
 permalink: /talks/healthy_buildings_2025
-venue: "IGBC-CII & IIT Hyderabad"
-date: 2023-10-06
+venue: "ESCI Hyderabad"
+date: 2025-08-17
 location: "Hyderabad, India"
 ---
 
