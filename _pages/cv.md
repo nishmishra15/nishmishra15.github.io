@@ -22,6 +22,8 @@ Skills
 * Matlab
 * Python
 * Google Earth Engine
+* GIS
+* CAD Software
 
 Publications
 ======
