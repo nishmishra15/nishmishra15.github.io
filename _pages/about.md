@@ -39,14 +39,14 @@ A framework for developing and testing a deep reinforcement learning agent.
 Transferability of Deep Reinforcement Learning Agents
 ---
 Manuscript Under Review
----
+
 
 
 
 Uncertainty Aware DRL Agent and Robustness of Action Selection Policies to Optimize Indoor PM Concentration and Energy Consumption
 ---
 Manuscript Under Review
----
+
 
 Deployment of a DRL Agent to Control Indoor PM, Energy, and Thermal Comfort in an Indian Office
 ---
