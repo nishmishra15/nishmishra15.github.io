@@ -21,7 +21,7 @@ main:
   #   url: /portfolio/
         
   - title: "Volunteer & Outreach"
-    url: /year-archive/
+    url: /posts/
     
   - title: "CV"
     url: /cv/
