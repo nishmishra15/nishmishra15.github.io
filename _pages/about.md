@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Nishchaya Kumar Mishra, a PhD scholar in the Department of Civil Engineering at Indian Inatitute of Technology Gandhinagar, India. My current work at IIT Gandhinagar lies at the inetrsection of control algorithms and indoor air quality. The overarching goal is to develop physics-driven and aritificial intelligence control algorithms that are deployable at community scale. 
+I am Nishchaya Kumar Mishra, a PhD scholar in the Department of Civil Engineering at Indian Inatitute of Technology Gandhinagar, India. My current work at IIT Gandhinagar lies at the intersection of control algorithms and indoor air quality. The overarching goal is to develop physics-driven and aritificial intelligence control algorithms that are deployable at community scale. 
 
 Themes of my PhD work and highlights:
 ---
@@ -28,18 +28,25 @@ Sensitivity analysis of energy and exposure for low (A and B) and high (C and D)
 
 DOPEEC (Deep Reinforcement Learning Agent for Optimizing Exposure, Energy, and Thermal Comfort)
 ---
-Manuscript under review
----
+1. A deep reinforcement learning agent controls ventilation and set temperature.
+2. The agent’s performance is compared to a dynamic optimization strategy.
+3. The agent achieved ∼17% to ∼373% higher energy normalized exposure reduction.
+4. The proposed agent, integrated with low-cost sensors, can be field-deployed.
+
 A framework for developing and testing a deep reinforcement learning agent.
 ![DOPEEC](/images/DOPEEC.jpg)
 
 Transferability of Deep Reinforcement Learning Agents
 ---
-Manuscript Under Preparation
+Manuscript Under Review
+---
+
+
 
 Uncertainty Aware DRL Agent and Robustness of Action Selection Policies to Optimize Indoor PM Concentration and Energy Consumption
 ---
-Manuscript Under Preparation
+Manuscript Under Review
+---
 
 Deployment of a DRL Agent to Control Indoor PM, Energy, and Thermal Comfort in an Indian Office
 ---
