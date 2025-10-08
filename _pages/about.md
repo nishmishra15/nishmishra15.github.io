@@ -39,7 +39,7 @@ A framework for developing and testing a deep reinforcement learning agent.
 Transferability of Deep Reinforcement Learning Agents
 ---
 Manuscript Under Review
-
+![transferableDRL](/images/transferableDRL.tif)
 
 
 
