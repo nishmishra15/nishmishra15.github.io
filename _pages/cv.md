@@ -25,6 +25,14 @@ Skills
 * GIS
 * CAD Software
 
+Instruments
+======
+* Aerodynamic Particle Sizer (APS)
+* DustTrak
+* Condensation Particle Counter (CPC)
+* Low-cost Sensors
+* IoT-based Monitors
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -61,6 +69,9 @@ Teaching
   
 External Projects
 ======
-* 2024: Report on E-waste Management, Best Practices, Acts and Rules in India and Abroad, prepared for HINDALCO Industries Limited (PI- Dr. Sameer Patel, IIT Gandhinagar)
+* 2025: Environmental Damage Compensation Assessment for a Spillage Accident in an API Manufacturing Industry (PI- Dr. Sameer Patel, IIT Gandhinagar)
+* 2025: Environmental Damage Compensation Assessment for a Fire Accident in a Chemical Manufacturing Industry (PI- Dr. Sameer Patel, IIT Gandhinagar)
+* 2025: A Comprehensive Waste Management Plan for a Copper Smelter Industry (PI- Dr. Sameer Patel, IIT Gandhinagar)
+* 2024: Report on E-waste Management, Best Practices, Acts and Rules in India and Abroad, prepared for an E-waste Handling Industry (PI- Dr. Sameer Patel, IIT Gandhinagar)
 * 2020: Techno-Economic Feasibility Study for filling of Ash for Three Sites (Obra Section 2 & 3, Stone Quarry, and Circuit House), UPRVUNL, Uttar Pradesh (PI- Dr. R.C Vaishya, MNNIT Allahabad)
 * 2019: Inspection of GPIs by TPA of Ganga Main Stem States-reg., CPCB (PI- Dr. R.C Vaishya, MNNIT Allahabad)  
