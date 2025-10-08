@@ -48,7 +48,7 @@ Uncertainty Aware DRL Agent and Robustness of Action Selection Policies to Optim
 ---
 Manuscript Under Review
 
-![uncertainDRL](/images/uncertainDRL.png)
+![uncertainDRL](/images/uncertainDRL.PNG)
 
 
 Deployment of a DRL Agent to Control Indoor PM, Energy, and Thermal Comfort in an Indian Office
