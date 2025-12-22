@@ -1,5 +1,5 @@
 ---
-title: "Field Deployment of a Reinforcement Learning Agent for Real-time Control of Indoor Air Quality, Occupants’ Comfort and Energy Consumption"
+title: "Uncertainty Informed Reinforcement Learning and Robustness of Action Policies for Optimizing Pollutant Exposure, Comfort, and Energy in Buildings"
 collection: talks
 type: "Indoor Air 2026 (ISIAQ 19th International Conference)"
 permalink: /talks/indoor_air_2026
