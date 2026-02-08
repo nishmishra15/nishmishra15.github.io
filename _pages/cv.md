@@ -24,6 +24,7 @@ Skills
 * Google Earth Engine
 * GIS
 * CAD Software
+* Analytic Hierarchy Process (AHP): Multi-criteria Decision Making
 
 Instruments
 ======
@@ -41,6 +42,7 @@ Publications
 
 Other Research Projects
 ------
+* Waste Management for a semi-urban city in India (Master's thesis on Waste Management for Class Z City: A Study of Motihari, Bihar, India), 2021
 * Sub-500nm particle removal mechanisms in indoor environments and governing factors, Fundamentals of Aerosol (CE-691), Fall Semester, 2021-22
 * Clean Cooking for Indian households: An assessment of fuel alternatives, Fall Semester, 2021-22
 * Development of low-cost air quality monitors, Fall Semester, 2021-22
