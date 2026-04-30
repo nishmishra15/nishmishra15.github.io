@@ -24,7 +24,8 @@ Sensitivity analysis of energy and exposure for low (A and B) and high (C and D)
 - (A) and (C) are energy-exposure sensitivity,
 - (B) and (D) are variations of normalized exposure reduction (NER)
 - (+)ve change means increment, and (−)ve change means reduction
-![LD_TGD_Sensitivity](/images/LD_TGD_Sensitivity.jpg)
+<img src="/images/LD_TGD_Sensitivity.jpg" alt="LD_TGD_Sensitivity" width="500">
+
 
 DOPEEC (Deep Reinforcement Learning Agent for Optimizing Exposure, Energy, and Thermal Comfort)
 ---
