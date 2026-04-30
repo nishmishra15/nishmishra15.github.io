@@ -24,7 +24,7 @@ Sensitivity analysis of energy and exposure for low (A and B) and high (C and D)
 - (A) and (C) are energy-exposure sensitivity,
 - (B) and (D) are variations of normalized exposure reduction (NER)
 - (+)ve change means increment, and (−)ve change means reduction
-<img src="/images/LD_TGD_Sensitivity.jpg" alt="LD_TGD_Sensitivity" width="500">
+<img src="/images/LD_TGD_Sensitivity.jpg" alt="LD_TGD_Sensitivity" width="600">
 
 
 DOPEEC (Deep Reinforcement Learning Agent for Optimizing Exposure, Energy, and Thermal Comfort)
@@ -35,24 +35,27 @@ DOPEEC (Deep Reinforcement Learning Agent for Optimizing Exposure, Energy, and T
 4. The proposed agent, integrated with low-cost sensors, can be field-deployed.
 
 A framework for developing and testing a deep reinforcement learning agent.
-<img src="/images/DOPEEC.jpg" alt="DOPEEC" width="500">
+<img src="/images/DOPEEC.jpg" alt="DOPEEC" width="600">
 
 Transferability of Deep Reinforcement Learning Agents
 ---
-Manuscript Under Review
+1. Assessed the performance of a trained DRL agent when transferred to houses with varying characteristics and environmental conditions.
+2. Agent's performance remained comparable to DynOpt, with particulate matter (PM) exposure and energy ratios near unity (1.05 ± 0.03).
+3. Under simultaneous variations in house characteristics, the exposure (1.03 ± 0.07) and energy (1.09 ± 0.06) ratios remained close to one. 
+4. Agent's performance declines in houses with high PM infiltration under high ambient parameters.
 
-![transferableDRL](/images/transferableDRL.png)
-
-
+<img src="/images/transferableDRL.png" alt="transferableDRL" width="600">
 
 Uncertainty Aware DRL Agent and Robustness of Action Selection Policies to Optimize Indoor PM Concentration and Energy Consumption
 ---
-Manuscript Under Review
+1. Monte Carlo dropout used to estimate uncertainty in DQN-based control agents.
+2. Multiple action policies (MC-DQNs) tested against a traditional DQN agent.
+3. PM exposure reduction ranged from −23 % to +34 % for high emission activities.
+4. Few of the MC-DQNs consistently lowered high indoor PM (>40 µg/m³) levels.
 
-![uncertainDRL](/images/uncertainDRL.PNG)
+<img src="/images/uncertainDRL.PNG" alt="uncertainDRL" width="600">
 
-
-Deployment of a DRL Agent to Control Indoor PM, Energy, and Thermal Comfort in an Indian Office
+An Edge Device-Based Wireless Network Architecture for Real-Time Indoor Environment Control Using Deep Reinforcement Learning
 ---
 Experiments ongoing
 
