@@ -35,7 +35,7 @@ DOPEEC (Deep Reinforcement Learning Agent for Optimizing Exposure, Energy, and T
 4. The proposed agent, integrated with low-cost sensors, can be field-deployed.
 
 A framework for developing and testing a deep reinforcement learning agent.
-![DOPEEC](/images/DOPEEC.jpg)
+<img src="/images/DOPEEC.jpg" alt="DOPEEC" width="500">
 
 Transferability of Deep Reinforcement Learning Agents
 ---
