@@ -59,7 +59,7 @@ An Edge Device-Based Wireless Network Architecture for Real-Time Indoor Environm
 ---
 Experiments ongoing
 
-<img src="/images/deploymentRL.tif" alt="deploymentRL" width="600">
+<img src="/images/deploymentRL.jpg" alt="deploymentRL" width="600">
 
 Read more of my works in [Publication](https://nishmishra15.github.io//publications) section.
   
