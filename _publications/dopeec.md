@@ -5,6 +5,6 @@ category: manuscripts
 permalink: '/publication/DOPEEC'
 date: 2025-09-16
 venue: 'Journal of Building Engineering'
-paperurl: 'http://nishmishra15.github.io/files/dopeec.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2352710225023113'
 ---
 
