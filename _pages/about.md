@@ -57,7 +57,7 @@ Uncertainty Aware DRL Agent and Robustness of Action Selection Policies to Optim
 
 An Edge Device-Based Wireless Network Architecture for Real-Time Indoor Environment Control Using Deep Reinforcement Learning
 ---
-Experiments ongoing
+Manuscript Under Review
 
 <img src="/images/deploymentRL.jpg" alt="deploymentRL" width="600">
 
