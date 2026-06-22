@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Nishchaya Kumar Mishra, a PhD scholar in the Department of Civil Engineering at Indian Inatitute of Technology Gandhinagar, India. My current work at IIT Gandhinagar lies at the intersection of control algorithms and indoor air quality. The overarching goal is to develop physics-driven and aritificial intelligence control algorithms that are deployable at community scale. 
+I completed my PhD in Civil Engineering from the Indian Institute of Technology Gandhinagar, India. I work at the intersection of artificial intelligence, sustainable energy systems, environmental health, and built environment. My research interests include indoor air quality, aerosol dynamics, human exposure assessment, and the energy-health nexus. I aim to leverage digital twins and smart sensing technologies to optimize system performance while enhancing occupant health and well-being. The overall goal is to support evidence-based decision-making for resilient and sustainable communities. 
 
 Themes of my PhD work and highlights:
 ---
