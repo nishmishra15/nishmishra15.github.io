@@ -1,10 +1,10 @@
 ---
-title: "Teaching Assistant for the Class of 2024 and 2025"
+title: "Teaching Assistant for the Class of 2024, 2025, and 2026"
 collection: teaching
 type: "Fundamentals of Aerosol"
 permalink: /teaching/ta_aerosols_2024_25
 venue: "IIT Gandhinagar, Department of Civil Engineering"
-date: 2025-01-01
+date: 2026-01-01
 location: "Gandhinagr, India"
 ---
 
